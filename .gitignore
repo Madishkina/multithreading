@@ -1,0 +1,5 @@
+#ignore file/directory
+
+/out
+/.idea
+Multithreading_1.imp
